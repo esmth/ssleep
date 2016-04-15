@@ -1,5 +1,5 @@
 # Simple Sleep
 
-literally all this does is interface with susfs to syspend to ram
+Literally all this does is interface with sysfs to suspend to ram.
 
-obviously needs kernel support for this
+Obviously needs suspend support in the kernel.
